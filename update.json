@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.14-15-debug.apk",
-  "notes": "App-pictogram bijgewerkt zodat Android het nieuwe onderhoudslogo gebruikt."
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.15-16-debug.apk",
+  "notes": "Kilometerstanden van voor de tenaamstelling worden nu duidelijk gemarkeerd in het km-stand overzicht."
 }
