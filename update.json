@@ -1,6 +1,6 @@
-{
-  "versionCode": 17,
-  "versionName": "1.16",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.16-17-debug.apk",
-  "notes": "De tijd is verwijderd uit het km-stand overzicht; tellerstanden tonen nu alleen datum en km-stand."
+﻿{
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.17-18-debug.apk",
+  "notes": "Onderhoudsinterval per voertuig, bewerkbaar logboek met filters, veilige km-stand synchronisatie, factuur-upload verwijderd en backup-herstel verbeterd."
 }
