@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.7-8-debug.apk",
-  "notes": "Onderhoudsrecords zonder datum worden nu ondersteund en getoond als Datum onbekend."
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.8-9-debug.apk",
+  "notes": "Geschatte datums en kilometerstanden zijn nu zichtbaar gemarkeerd in de onderhoudshistorie."
 }
