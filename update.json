@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.12-13-debug.apk",
-  "notes": "Nieuw app-logo toegevoegd en leverancierskeuze verbeterd met een echte dropdown en optie voor nieuwe leveranciers."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.13-14-debug.apk",
+  "notes": "Standaard onderhoudsintervallen toegevoegd: olie/oliefilter 15.000 km, grote-beurtdelen 30.000 km en bougies 90.000 km."
 }
