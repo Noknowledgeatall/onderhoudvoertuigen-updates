@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.3-4-debug.apk",
+  "notes": "Updatefunctie via aparte publieke update-repo, plus de onderhoudsvelden en vernieuwde vormgeving."
+}
