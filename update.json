@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.11-12-debug.apk",
-  "notes": "Onderdelen binnen een onderhoudsregel kunnen nu ook worden bewerkt via het potloodje."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.12-13-debug.apk",
+  "notes": "Nieuw app-logo toegevoegd en leverancierskeuze verbeterd met een echte dropdown en optie voor nieuwe leveranciers."
 }
