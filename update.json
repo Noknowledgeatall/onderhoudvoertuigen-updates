@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.5-6-debug.apk",
-  "notes": "KM-logboek uitgebreid: fout ingevoerde kilometerstanden kunnen nu worden verwijderd."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.6-7-debug.apk",
+  "notes": "Onderhoudsinformatie is nu altijd zichtbaar als raadpleegveld op het tabblad Technisch."
 }
