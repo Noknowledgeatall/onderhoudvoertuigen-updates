@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.8-9-debug.apk",
-  "notes": "Geschatte datums en kilometerstanden zijn nu zichtbaar gemarkeerd in de onderhoudshistorie."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.9-10-debug.apk",
+  "notes": "Onderhoudsrecords kunnen nu ook een onbekende kilometerstand hebben; de factuurimport is hierop voorbereid."
 }
