@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.13-14-debug.apk",
-  "notes": "Standaard onderhoudsintervallen toegevoegd: olie/oliefilter 15.000 km, grote-beurtdelen 30.000 km en bougies 90.000 km."
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.14-15-debug.apk",
+  "notes": "App-pictogram bijgewerkt zodat Android het nieuwe onderhoudslogo gebruikt."
 }
