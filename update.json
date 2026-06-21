@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.18-19-debug.apk",
-  "notes": "Geschatte kilometerstanden zijn zichtbaar, logboekfilters kunnen gecombineerd worden en onderhoudswaarschuwingen staan nu ook bij de kilometerstand."
+  "versionCode": 20,
+  "versionName": "1.19",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.19-20-debug.apk",
+  "notes": "De onderhoudsmelding staat nu alleen in het kentekenoverzicht en niet meer in het technische detailscherm."
 }
