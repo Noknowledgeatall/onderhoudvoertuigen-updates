@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.6-7-debug.apk",
-  "notes": "Onderhoudsinformatie is nu altijd zichtbaar als raadpleegveld op het tabblad Technisch."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://raw.githubusercontent.com/Noknowledgeatall/onderhoudvoertuigen-updates/main/releases/onderhoudvoertuigen-1.7-8-debug.apk",
+  "notes": "Onderhoudsrecords zonder datum worden nu ondersteund en getoond als Datum onbekend."
 }
